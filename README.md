@@ -9,6 +9,7 @@ Here are some user stories. For each of them, follow the TDD process from your d
 | Noun | Verb |
 |------|------|
 | User |      |
+| Developer |      |
 | Dice | Roll |
 | Game | Play |
 
