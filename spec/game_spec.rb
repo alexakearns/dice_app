@@ -1,5 +1,6 @@
 require 'game'
 
-describe Game do
+describe Dice do
 
+  
 end
